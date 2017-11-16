@@ -1,11 +1,10 @@
 # Site wide configuration
 
-title: Site Title
+title: FHIR up UW
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: Some resources for FHIR-related things.
 search: true
-url: http://localhost:4000
+url: https://pmanko.github.io/FHIRupUW/
 
 # Jekyll configuration
 
@@ -36,9 +35,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Piotr Mankowski
+  avatar:
+  email: pmanko@uw.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
