@@ -33,6 +33,6 @@ excerpt: "Some interesting links for diving into FHIR, SMART on FHIR, CDS Hooks,
 * [CDS Hooks Sandbox - ](http://sandbox.cds-hooks.org/)
 
 ## UW Efforts
-* https://samarium.cirg.washington.edu/HIMSS/
-* https://cirg.washington.edu/
-* https://www.mpowercare.org/
+* [https://samarium.cirg.washington.edu/HIMSS/][https://samarium.cirg.washington.edu/HIMSS/]
+* [https://cirg.washington.edu/][https://cirg.washington.edu/]
+* [https://www.mpowercare.org/][https://www.mpowercare.org/]
