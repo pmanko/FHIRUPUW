@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BIME 590 Presentation Resources
+title: FHIR, SMART & CDS Hooks Resources
 excerpt: "Some interesting links for diving into FHIR, SMART on FHIR, CDS Hooks, and other topics we touch on."
 ---
 ## Important Health IT Standards
