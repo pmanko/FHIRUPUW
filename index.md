@@ -36,3 +36,7 @@ excerpt: "Some interesting links for diving into FHIR, SMART on FHIR, CDS Hooks,
 * [https://samarium.cirg.washington.edu/HIMSS/](https://samarium.cirg.washington.edu/HIMSS/)
 * [https://cirg.washington.edu/](https://cirg.washington.edu/)
 * [https://www.mpowercare.org/](https://www.mpowercare.org/)
+
+### Tutorials
+* [FHIR Tutorial](https://psbrandt.io/fhir/)
+* [CDS Hooks Tutorial](https://github.com/uwbhi/phi533-cdshook/blob/master/tutorial.md)
