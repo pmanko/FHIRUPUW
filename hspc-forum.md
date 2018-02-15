@@ -23,8 +23,6 @@ excerpt: "Some interesting links for diving into FHIR, SMART on FHIR, CDS Hooks,
 # Contact Information
 We're excited to share our experience and collaborate on FHIR and SMART on FHIR projects. Shoot us an email with any questions or comments!
 
-Bill Lober
-
 Piotr Mankowski
 \
 [pmanko@uw.edu](mailto:pmanko@uw.edu)
@@ -32,3 +30,10 @@ Piotr Mankowski
 University of Washington
 \
 Student, PhD
+
+Bill Lober
+\[lober@@uw.edu](mailto:lober@uw.edu)
+\
+University of Washington
+\
+Professor, Health Informatics and Global Health
