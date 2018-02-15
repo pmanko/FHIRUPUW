@@ -30,6 +30,6 @@ University of Washington
 Student, PhD  
 
 Bill Lober  
-[lober@@uw.edu](mailto:lober@uw.edu)  
+[lober@uw.edu](mailto:lober@uw.edu)  
 University of Washington  
 Professor, Health Informatics and Global Health  
