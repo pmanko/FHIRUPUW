@@ -1,8 +1,8 @@
 ---
 layout: page
-title: HSPC Implementers Forum
-subtitle: Demos and Resources
+title: HSPC Implementers Forum: Demos and Resources
 excerpt: "Some interesting links for diving into FHIR, SMART on FHIR, CDS Hooks, and other topics related."
+show_excerpts: true
 ---
 
 # Teaching FHIR, SMART on FHIR, and CDS Hooks
