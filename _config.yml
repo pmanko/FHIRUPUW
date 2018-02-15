@@ -3,10 +3,10 @@ title: FHIR up UW
 locale: en_US
 description: Some resources for FHIR-related things.
 search: true
-url: https://pmanko.github.io/FHIRupUW/
+url: https://uwbhi.github.io/FHIRupUW/
 
 # Jekyll configuration
-
+theme: jekyll-theme-so-simple
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
