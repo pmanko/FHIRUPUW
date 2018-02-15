@@ -5,9 +5,9 @@ excerpt: "Some interesting links for diving into FHIR, SMART on FHIR, CDS Hooks,
 ---
 
 # Teaching FHIR, SMART on FHIR, and CDS Hooks
-* [The Next EHR Paradigm - An App Store Model (Talk)]()
-* [The Next EHR Paradigm - An App Store Model (Slides)]()
-* [Modern Healthcare Standards (Slides)](https://github.com/uwbhi/FHIRupUW/blob/master/Resources/PHI%20533_%20Modern%20Standards.pdf)
+* [The Next EHR Paradigm - An App Store Model (Talk)](http://tcs.slu.washington.edu/tcs/?id=BEF7E036-FA52-4E0F-B6BE-BE22C9D8E64A)
+* [The Next EHR Paradigm - An App Store Model (Slides)](https://github.com/uwbhi/FHIRupUW/blob/master/Resources/TheNextEHRParadigm.pdf)
+* [Modern Healthcare Standards (Slides)](https://github.com/uwbhi/FHIRupUW/blob/master/Resources/ModernHealthcareStandards.pdf)
 * [FHIR Tutotial](https://psbrandt.io/fhir/)
 * [CDS Hooks Tutorial](https://github.com/uwbhi/CDS-Hooks-Tutorial/blob/master/tutorial.md)
 * [SMART on FHIR - An App Platform for Healthcare](https://smarthealthit.org/)
@@ -18,7 +18,7 @@ excerpt: "Some interesting links for diving into FHIR, SMART on FHIR, CDS Hooks,
 # Integrating an Existing mHealth App with EHR Systems using SMART on FHIR
 * [mPOWEr: Post-operative Wound Evaluator mHealth App](https://www.mpowercare.org/)
 * [mPOWEr Demo](https://mpower.cirg.washington.edu/demo/users/login)
-* [mPOWEr SMART on FHIR Integration](https://github.com/uwbhi/FHIRupUW/blob/master/Resources/mPOWEr%20Demo.pdf)
+* [mPOWEr SMART on FHIR Integration](https://github.com/uwbhi/FHIRupUW/blob/master/Resources/mPOWErIntegration.pdf)
 
 # Contact Information
 We're excited to share our experience and collaborate on FHIR and SMART on FHIR projects. Shoot us an email with any questions or comments!
