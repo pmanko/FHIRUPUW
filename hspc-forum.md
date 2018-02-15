@@ -25,10 +25,8 @@ We're excited to share our experience and collaborate on FHIR and SMART on FHIR 
 
 Bill Lober
 
-Piotr Mankowski
-\
-[pmanko@uw.edu](mailto:pmanko@uw.edu)
-\
-University of Washington
-\
-Student, PhD
+Piotr Mankowski  
+[pmanko@uw.edu](mailto:pmanko@uw.edu)  
+University of Washington  
+Student, PhD  
+
