@@ -3,7 +3,7 @@ title: FHIR up UW
 locale: en_US
 description: Some resources for FHIR-related things.
 search: true
-url: https://uwbhi.github.io/FHIRupUW/
+url: https://uw-fhir.github.io/FHIRupUW/
 
 # Jekyll configuration
 theme: jekyll-theme-so-simple
